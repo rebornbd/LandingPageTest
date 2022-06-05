@@ -8,7 +8,7 @@ import {
   Face4,
   Face5,
   Face6
-} from "../../images";
+} from "../../images/love";
 import { Hero } from "./components/Hero";
 import styles from "./Home.module.css";
 
